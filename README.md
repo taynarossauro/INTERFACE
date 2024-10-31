@@ -1,5 +1,8 @@
 # Sistema_de_Gestão_de_Funcionários
 
+# Diagrama
+![Diagrama](https://github.com/taynarossauro/INTERFACE/blob/main/Diagrama.png)
+
 Este projeto implementa um sistema de gestão de funcionários que calcula o bônus anual com base na categoria do funcionário. A interface `Funcionario` define o método `calcularBonus()`, que é implementado em diferentes classes para calcular o bônus conforme o tipo de funcionário.
 
 ## 🚀 Começando
